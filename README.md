@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a Minecraft Mod named Superfood. It adds some nice food to the game.
+
+- 🌱 I’m currently learning Python.
 <!--
 **Manololol-code/Manololol-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
